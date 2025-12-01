@@ -1,4 +1,4 @@
-package easy;
+package easy.hashmap;
 
         // LeetCode #1 - Two Sum
         // Approach: HashMap
