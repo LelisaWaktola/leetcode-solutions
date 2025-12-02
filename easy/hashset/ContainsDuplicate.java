@@ -1,6 +1,6 @@
 package easy.hashset;
 
-import java.util.HashSet;
+import java.util.*;
 
 public class ContainsDuplicate {
 
@@ -19,5 +19,8 @@ public class ContainsDuplicate {
         int [] nums={1,2,1,4};
         boolean result=ContainsDuplicate.containsDuplicate(nums);
         System.out.println(result);
-    }
+
+        LinkedList<Integer> list= new LinkedList<>();
+
+     }
 }
