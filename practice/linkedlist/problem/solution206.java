@@ -24,6 +24,6 @@ public class solution206 {
              current.next=prev;
              prev=current;
         }
-        return Node;
+        return null;
     }
 }
